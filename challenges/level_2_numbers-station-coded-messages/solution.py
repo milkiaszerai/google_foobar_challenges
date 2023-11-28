@@ -23,7 +23,7 @@ def solution(l, t):
             if sum(sub_list) == t:
                 found = True
                 l_[0], l_[1] = idx, (idx + ix)
-                print("sub_list: {} \nindexes: {} ".format(sub_list, l_))
+                print("sub_list:  {} \nindexes: {} ".format(sub_list, l_))
                 break
         if found:
             break
