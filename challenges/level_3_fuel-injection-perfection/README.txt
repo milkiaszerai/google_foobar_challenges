@@ -4,7 +4,7 @@ Commander Lambda has asked for your help to refine the automatic quantum antimat
 It's a great chance for you to get a closer look at the LAMBCHOP -- and maybe sneak in a bit of sabotage while you're at it -- so you took the job gladly.
 
 Quantum antimatter fuel comes in small pellets, which is convenient since the many moving parts of the LAMBCHOP each need to be fed fuel one pellet at a time. However, minions dump pellets in bulk into the fuel intake. You need to figure out the most efficient way to sort and shift the pellets down to a single pellet 
-at a time.
+at a time. 
 
 The fuel control mechanisms have three operations:
 
