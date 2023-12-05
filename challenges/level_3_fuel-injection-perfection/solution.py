@@ -1,9 +1,13 @@
-def solution(s):
+def solution(n):
     ''' 
-    Program that counts how many salutes are exchanged during a typical walk along a hallway which is represented by a string. For example: "--->-><-><-->-" 
+    Write a function called solution(n) which takes a positive integer as a string and 
+    returns the minimum number of operations needed to transform the number of pellets to 1. 
     
     Args: 
-        s: string of unkown length
+        n (str): string of postive integer
     Returns:
-        n(int): number of salutes
+        res (int): minimum number of operations needed to transform the number of pellets to 1
+
+    Example:
+        
     '''
